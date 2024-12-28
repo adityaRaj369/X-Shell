@@ -89,7 +89,7 @@ Displays command execution results instantly using non-blocking processes.
       listmyDir
 
     - Navigate to a Directory
-      getInto directoryName
+      getInto <directory_name>
 
     - Create a New File
       createFile example.txt
@@ -98,10 +98,10 @@ Displays command execution results instantly using non-blocking processes.
       removeFile example.txt
     
     - Create a New Directory
-      makeDir newDirectory
+      makeDir <directory_name>
     
     - Remove a Directory
-      removeDir oldDirectory
+      removeDir <directory_name>
   
     - Count Files in the Current Directory
       countFiles
