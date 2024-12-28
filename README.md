@@ -67,7 +67,7 @@ Displays command execution results instantly using non-blocking processes.
 ## **Clone the Repository**
 - Run the following commands to clone the repository and navigate to the project directory:
   ```bash
-  git clone https://github.com/yourusername/XShell.git
+  git clone https://github.com/yourusername/X-Shell.git
   cd XShell
 
 ### **Compile the Application**
@@ -80,18 +80,20 @@ Displays command execution results instantly using non-blocking processes.
 - Launch the application with:
   ```bash
   ./xshell
+
+  
 - Example Usage
-List Files in the Current Directory
+    ```bash
 
-listmyDir
+    - List Files in the Current Directory
+      listmyDir
 
-Navigate to a Directory
+    - Navigate to a Directory
+      getInto /home/user/Documents
 
-getInto /home/user/Documents
-Create a New File
-
-createFile example.txt
-Remove a File
+    - Create a New File
+      createFile example.txt
+      Remove a File
 
 removeFile example.txt
 Create a New Directory
