@@ -89,29 +89,28 @@ Displays command execution results instantly using non-blocking processes.
       listmyDir
 
     - Navigate to a Directory
-      getInto /home/user/Documents
+      getInto directoryName
 
     - Create a New File
       createFile example.txt
-      Remove a File
-
-removeFile example.txt
-Create a New Directory
-
-makeDir newDirectory
-Remove a Directory
-
-removeDir oldDirectory
-Count Files in the Current Directory
-
-countFiles
-Display Current Working Directory
-
-displayPwd
-Display Current System Time
-bash
-Copy code
-displayTime
+    
+    - Remove a File
+      removeFile example.txt
+    
+    - Create a New Directory
+      makeDir newDirectory
+    
+    - Remove a Directory
+      removeDir oldDirectory
+  
+    - Count Files in the Current Directory
+      countFiles
+    
+    - Display Current Working Directory
+      displayPwd
+    
+    - Display Current System Time
+      displayTime
 
 
 ## **Project Architecture**
