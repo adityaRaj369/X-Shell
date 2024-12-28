@@ -1,10 +1,14 @@
-# **X/Shell: Kernel-Level Shell Interaction for Linux**
+<svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414" viewBox="0 0 24 24" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><path d="M19 20H4a2 2 0 0 1-2-2V6c0-1.11.89-2 2-2h6l2 2h7c1.097 0 2 .903 2 2H4v10l2.14-8h17.07l-2.28 8.5c-.23.87-1.01 1.5-1.93 1.5z" fill="#0277bd"/><path d="m16.275 21.115-2.538.002V17.31l-1.903 2.441-1.903-2.441v3.807H7.393v-7.613h2.538l1.903 2.538 1.903-2.538 2.538-.003zm3.789.634L16.91 17.31h1.903v-3.806h2.538v3.806h1.903z" fill="#b3e5fc"/></svg>
 <p align="center"><h1 align="center">X/Shell</h1></p>
+
+
+# **X/Shell: Kernel-Level Shell Interaction for Linux**
 **XShell** is a lightweight, kernel-level Linux shell application designed to interact directly with the operating system’s kernel, bypassing traditional shells like Bash. It features a GUI built using GTK, offering an intuitive interface for performing system-level operations. This project demonstrates expertise in system programming, Linux kernel interaction, and advanced GUI development.
 
 ---
 
 ## **Key Technologies**
+![folder-markdown-open](https://github.com/user-attachments/assets/d1d30b4d-5c92-49de-809b-4f647e8952ac)
 
 - **C Programming**: Core development in C, showcasing system-level programming skills, memory management, and efficient file I/O handling.
 - **Linux Kernel Interaction**: Uses direct system calls (`execve`, `fork`, etc.) to interact with the kernel, bypassing intermediary shells.
