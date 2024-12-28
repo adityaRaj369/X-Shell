@@ -62,3 +62,69 @@ Displays command execution results instantly using non-blocking processes.
 - Install GTK+3 development libraries:
   ```bash
   sudo apt-get install libgtk-3-dev
+
+###Steps
+##Clone the Repository
+- Run the following commands to clone the repository and navigate to the project directory:
+  ```bash
+  git clone https://github.com/yourusername/XShell.git
+  cd XShell
+
+###Compile the Application
+- Use the following command to compile the application:
+  ```bash
+  gcc -o xshell xshell.c `pkg-config --cflags --libs gtk+-3.0`
+
+
+###Run the Application
+- Launch the application with:
+  ```bash
+  ./xshell
+
+###Example Usage
+##List Files in the Current Directory
+  ```bash
+listmyDir
+Navigate to a Directory
+bash
+Copy code
+getInto /home/user/Documents
+Create a New File
+bash
+Copy code
+createFile example.txt
+Display Command History
+bash
+Copy code
+history
+Project Architecture
+Command Execution Engine: Processes user input and directly interacts with the OS kernel.
+Modular Components: Separate modules handle file operations, directory navigation, and command parsing.
+GUI Interface: Interactive, cross-platform design with real-time output rendering using GTK3.
+Screenshots
+(Include screenshots of the GUI with command input/output examples.)
+
+Contributing
+This project is open for enhancements and feature additions. To contribute:
+
+Fork the Repository:
+bash
+Copy code
+git fork https://github.com/yourusername/XShell.git
+Create a Feature Branch:
+bash
+Copy code
+git checkout -b feature-name
+Commit Your Changes:
+bash
+Copy code
+git commit -m "Added feature-name"
+Push to the Branch:
+bash
+Copy code
+git push origin feature-name
+Submit a Pull Request.
+Conclusion
+XShell is a demonstration of advanced system-level programming skills and GUI development expertise. It highlights your ability to work with Linux kernel internals, system calls, and create robust, interactive applications. This project is an excellent showcase of skills in C programming, Linux, and GUI development for system programming or embedded development roles.
+
+
