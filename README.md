@@ -1,6 +1,5 @@
 
 <p align="center"><h1 align="center">X/Shell</h1></p>
-https://github.com/user-attachments/assets/74ed8fcf-54ef-4deb-b12e-8d6046599873
 
 
 # **X/Shell: Kernel-Level Shell Interaction for Linux**
@@ -8,7 +7,8 @@ https://github.com/user-attachments/assets/74ed8fcf-54ef-4deb-b12e-8d6046599873
 
 ---
 
-## **Key Technologies**
+## **Key Technologies**![Gemini_Generated_Image_60hkn460hkn460hk](https://github.com/user-attachments/assets/c686d503-108c-40c8-b7c9-df1ba25ce5c2)
+
 - **C Programming**: Core development in C, showcasing system-level programming skills, memory management, and efficient file I/O handling.
 - **Linux Kernel Interaction**: Uses direct system calls (`execve`, `fork`, etc.) to interact with the kernel, bypassing intermediary shells.
 - **GTK 3**: Modern GUI creation using GTK, enabling cross-platform graphical interfaces.
