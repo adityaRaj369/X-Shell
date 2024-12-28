@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>X/Shell</h1>
+  <h1 align="center">X/Shell</h1>
 </p>
 
 <p align="center">
