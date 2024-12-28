@@ -80,76 +80,58 @@ Displays command execution results instantly using non-blocking processes.
 - Launch the application with:
   ```bash
   ./xshell
-Example Usage
+- Example Usage
 List Files in the Current Directory
-bash
-Copy code
+
 listmyDir
+
 Navigate to a Directory
-bash
-Copy code
+
 getInto /home/user/Documents
 Create a New File
-bash
-Copy code
+
 createFile example.txt
 Remove a File
-bash
-Copy code
+
 removeFile example.txt
 Create a New Directory
-bash
-Copy code
+
 makeDir newDirectory
 Remove a Directory
-bash
-Copy code
+
 removeDir oldDirectory
 Count Files in the Current Directory
-bash
-Copy code
+
 countFiles
 Display Current Working Directory
-bash
-Copy code
+
 displayPwd
 Display Current System Time
 bash
 Copy code
 displayTime
-Project Architecture
+
+
+## **Project Architecture**
 Command Execution Engine: The heart of the application, responsible for parsing user commands and issuing corresponding system calls. It also manages error handling and the execution flow between different shell commands.
 Modular Components: The project is structured in a modular fashion to allow scalability. Each component (file operations, process control, etc.) has been encapsulated into separate modules for ease of maintenance and potential future extensions.
 GUI Interface: Designed to be lightweight yet feature-rich, allowing users to interact with the Linux kernel through an intuitive graphical interface. It supports real-time command output rendering, making the user experience seamless.
 Screenshots
 (Include screenshots of the GUI with command input/output examples. Here, you can add images of the interactive terminal-like interface with different commands executed, showing the results in real-time.)
 
-Contributing
+
+## **Contributing**
 This project is open for enhancements and feature additions. To contribute:
 
-Fork the Repository:
-bash
-Copy code
-git fork https://github.com/yourusername/XShell.git
-Create a Feature Branch:
-bash
-Copy code
-git checkout -b feature-name
-Commit Your Changes:
-bash
-Copy code
-git commit -m "Added feature-name"
-Push to the Branch:
-bash
-Copy code
-git push origin feature-name
-Submit a Pull Request.
-Conclusion
+## **Conclusion**
+
 XShell is a powerful demonstration of advanced system-level programming and GUI development. By combining low-level system programming with high-level graphical design, it showcases your ability to interact with Linux kernel internals, perform essential system operations, and create a modern, user-friendly interface.
 
 This project not only demonstrates proficiency in C programming, system calls, and Linux but also illustrates the use of multithreading for real-time command output rendering and advanced GUI development with GTK3. XShell is an excellent showcase for roles in system programming, embedded development, or Linux-based software engineering.
 
-Future Work
+
+## **Future Work**
+
 XShell is a work in progress and offers several opportunities for further enhancement, such as:
 
 Adding support for more advanced system operations (e.g., network management, user management).
