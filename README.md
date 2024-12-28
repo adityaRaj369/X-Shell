@@ -1,6 +1,6 @@
 
 <p align="center"><h1 align="center">X/Shell</h1></p>
-![2e808f05-b5bb-4358-81fd-b143ef37574b](https://github.com/user-attachments/assets/74ed8fcf-54ef-4deb-b12e-8d6046599873)
+(https://github.com/user-attachments/assets/74ed8fcf-54ef-4deb-b12e-8d6046599873)
 
 
 # **X/Shell: Kernel-Level Shell Interaction for Linux**
