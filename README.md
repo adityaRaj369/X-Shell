@@ -1,7 +1,9 @@
 
 <p align="center"><h1 align="center">X/Shell</h1></p>
 
-![Gemini_Generated_Image_60hkn460hkn460hk](https://github.com/user-attachments/assets/700f55a0-ecb1-43b8-9b21-f5ba67bb8416)
+<p style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/700f55a0-ecb1-43b8-9b21-f5ba67bb8416" alt="X/Shell Logo" style="width: 150px;"/>
+</p>
 
 # **X/Shell: Kernel-Level Shell Interaction for Linux**
 **XShell** is a lightweight, kernel-level Linux shell application designed to interact directly with the operating system’s kernel, bypassing traditional shells like Bash. It features a GUI built using GTK, offering an intuitive interface for performing system-level operations. This project demonstrates expertise in system programming, Linux kernel interaction, and advanced GUI development.
