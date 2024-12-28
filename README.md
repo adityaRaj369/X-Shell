@@ -8,8 +8,6 @@
 ---
 
 ## **Key Technologies**
-![folder-markdown-open](https://github.com/user-attachments/assets/d1d30b4d-5c92-49de-809b-4f647e8952ac)
-
 - **C Programming**: Core development in C, showcasing system-level programming skills, memory management, and efficient file I/O handling.
 - **Linux Kernel Interaction**: Uses direct system calls (`execve`, `fork`, etc.) to interact with the kernel, bypassing intermediary shells.
 - **GTK 3**: Modern GUI creation using GTK, enabling cross-platform graphical interfaces.
