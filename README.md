@@ -2,7 +2,7 @@
 <p align="center"><h1 align="center">X/Shell</h1></p>
 
 <p style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/700f55a0-ecb1-43b8-9b21-f5ba67bb8416" alt="X/Shell Logo" style="width: 150px;"/>
+  <img src="https://github.com/user-attachments/assets/700f55a0-ecb1-43b8-9b21-f5ba67bb8416" alt="X/Shell Logo" style="width: 300px;"/>
 </p>
 
 # **X/Shell: Kernel-Level Shell Interaction for Linux**
